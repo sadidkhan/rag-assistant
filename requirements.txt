@@ -1,0 +1,12 @@
+langchain-community
+pypdf
+ollama
+langchain_text_splitters
+langchain
+langchain-ollama
+fastapi
+pydantic
+langgraph
+langchain-chroma
+python-multipart
+tiktoken
